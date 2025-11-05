@@ -45,11 +45,16 @@ select
 from animais;
 
 
+
+
 -- 2° Quantas espécies diferentes existem na base?
 
 select
 	count(distinct(Especie)) as Qtd_especies
 from animais;
+
+
+
 
 
 -- 3° Quantos animais estão disponíveis, adotados e em tratamento?
@@ -62,12 +67,15 @@ group by Especie
 order by Status desc;
 
 
-select * from animais limit 10;
+
+
+
 -- 4° Qual é a média de idade dos animais cadastrados?
 
 select
 	avg(Idade) as media_idade  -- aplicando a função round(	,0) aredonda para 7
 from animais;
+
 
 
 
@@ -80,13 +88,18 @@ where Status = 'Adotado';
 
 
 
+
+
 -- 6° Qual é a média da taxa de adoção cobrada?
 select
 	round(avg(Taxa_Adocao), 2) as media_taxa_adocao
 from adocoes;
 
 
-select * from adocoes limit 10;
+
+
+
+
 -- 7° Quantos animais foram adotados por espécie?
 
 select
