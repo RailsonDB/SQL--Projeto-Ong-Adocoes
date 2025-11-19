@@ -39,7 +39,7 @@ nome do adotante, cidade, taxa de adoção e data de adoção.
 9. Qual o *valor total arrecadado* em taxas de adoção?  
 10. Qual é o *mês com maior número de adoções*?
 
-### 🔹 Consultas Avançadas  
+### 🔹 Outras Perguntas
 11. Quais animais adotados têm *idade superior a 5 anos*?  
 12. Quais animais foram cadastrados em *2024* e já estão marcados como “Adotado”?  
 13. Liste o *nome do animal*, o nome do *adotante* e a *cidade* da adoção.  
