@@ -67,5 +67,10 @@ nome do adotante, cidade, taxa de adoção e data de adoção.
 
 
 
+## 👨‍💻 Autor
+
+Desenvolvido por **Railson Silva**<br>
+📚 Em formação para atuar como **Analista de Dados**
+
 
 
