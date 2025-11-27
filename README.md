@@ -67,12 +67,5 @@ nome do adotante, cidade, taxa de adoção e data de adoção.
 
 
 
-## 🧰 Como utilizar o projeto no MySQL
-
-Faça o download do script localizado 
-
-
-
-
 
 
