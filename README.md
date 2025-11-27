@@ -24,14 +24,15 @@ nome do adotante, cidade, taxa de adoção e data de adoção.
 
 
 ## 📊 Perguntas Respondidas  
-
 ### 🔹 Dados Gerais  
+
 1. Quantos animais existem cadastrados no total?  
 2. Quantas espécies diferentes existem na base?  
 3. Quantos animais estão *disponíveis, **adotados* e *em tratamento*?  
 4. Qual é a *média de idade* dos animais cadastrados?
 
 ### 🔹 Análise de Adoções  
+
 5. Quantas adoções foram realizadas no total?  
 6. Qual é a *média da taxa de adoção* cobrada?  
 7. Quantos animais foram adotados por espécie?  
@@ -40,6 +41,7 @@ nome do adotante, cidade, taxa de adoção e data de adoção.
 10. Qual é o *mês com maior número de adoções*?
 
 ### 🔹 Outras Perguntas
+
 11. Quais animais adotados têm *idade superior a 5 anos*?  
 12. Quais animais foram cadastrados em *2024* e já estão marcados como “Adotado”?  
 13. Liste o *nome do animal*, o nome do *adotante* e a *cidade* da adoção.  
@@ -49,12 +51,14 @@ nome do adotante, cidade, taxa de adoção e data de adoção.
 
 
 ## 💡 Tecnologias Utilizadas  
+
 *MySQL* | Banco de dados relacional usado para gerenciar o projeto |<br>
 *SQL* | Linguagem de consulta estruturada para extração de dados e análises |<br>
 
 
 
 ## 🧠 Principais Conceitos Trabalhados 
+
 - Uso de *funções de agragação* (COUNT, AVG, SUM, ROUND)
 - *Junções entre tabelas* (JOIN e LEFT JOIN)
 - Agrupamentos e *estatísticas por categoria* (GROUP BY, ORDER BY)
@@ -65,12 +69,8 @@ nome do adotante, cidade, taxa de adoção e data de adoção.
 
 ## 🧰 Como utilizar o projeto no MySQL
 
-1. **Crie o banco de dados `ong_adocao`** diretamente no MySQL  
-   Você pode criar manualmente ou clonar este repositório com o banco e as tabelas já prontos.
+Faça o download do script localizado 
 
-   ```sql
-   CREATE DATABASE IF NOT EXISTS ong_adocao;
-   USE ong_adocao;
 
 
 
