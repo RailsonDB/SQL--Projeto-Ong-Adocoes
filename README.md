@@ -65,12 +65,3 @@ nome do adotante, cidade, taxa de adoção e data de adoção.
 - *Funções de data* (YEAR, DATE_FORMAT)
 - Filtragem condicional (WHERE, AND, OR)
 
-
-
-## 👨‍💻 Autor
-
-Desenvolvido por **Railson Silva**<br>
-📚 Em formação para atuar como **Analista de Dados**
-
-
-
